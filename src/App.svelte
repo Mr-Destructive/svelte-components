@@ -1,6 +1,7 @@
 <script>
     import Button from './components/Button.svelte'
     import ToggleMode from './components/Toggle-Mode.svelte'
+    import Matrix from './components/Matrix.svelte'
 </script>
 
 <main>
@@ -8,6 +9,7 @@
     <ul>
         <li><h3>Ripple Effect Button</h3><Button/></li>
         <li><h3>Dark-Light Mode Toggle</h3><ToggleMode/></li>
+        <li><h3>Matrix Rain</h3><Matrix/></li>
     </ul>
 </main>
 

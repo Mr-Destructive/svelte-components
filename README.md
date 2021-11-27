@@ -6,3 +6,4 @@
 
 - [Ripple Effect Button](./src/components/Button.svelte)
 - [Dark/Light Mode Toggle](./src/components/Toggle-Mode.svelte)
+- [Matrix Rain](./src/components/Matrix.svelte)
