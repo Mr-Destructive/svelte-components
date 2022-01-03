@@ -6,7 +6,7 @@
 	export const noInitialDrop = false
 	export const fontSize = 16
 	export const color = '#0f0'
-	export const interval = 33
+	export const interval = 49
 	let canvas
 	let windowWidth = 100
 	let windowHeight = 100
